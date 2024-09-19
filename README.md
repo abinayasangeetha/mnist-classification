@@ -33,9 +33,10 @@ Evaluate the model with the testing data
 Fit the model and predict the single input
 
 ## PROGRAM
-
-### Name:ABINAYA S
-### Register Number: 212222230002
+```
+Name:ABINAYA S
+Register Number: 212222230002
+```
 ```
 import numpy as np
 from tensorflow import keras
@@ -165,10 +166,11 @@ print(x_single_prediction)
 ### New Sample Data Prediction
 
 ##### Input
-![OP35](https://github.com/user-attachments/assets/53c0c683-9768-428e-ac74-4b4bf26fc591)
+
+![op35 (2)](https://github.com/user-attachments/assets/cc2faba3-ef96-4665-a678-2abfdc8b1c78)
 
 ##### Output
-![OP36](https://github.com/user-attachments/assets/ece8be73-a160-4dfa-8d09-29eacb2ec24b)
+![op36 (2)](https://github.com/user-attachments/assets/04de417c-59bf-4ece-bb76-cdbc1768294b)
 
 ## RESULT
   Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully.
